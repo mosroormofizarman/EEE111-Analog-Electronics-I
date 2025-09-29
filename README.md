@@ -26,7 +26,7 @@ This repository is organized into the following folders:
 - **Position:** Associate Professor, ECE  
 - **Department:** Electrical and Computer Engineering  
 - **Program:** Undergraduate  
-- **Semester:** **Summer 2024**  
+- **Semester:** **FALL 2025**  
 - **Section:** 04  
 - **Credit Hours:** 3.0  
 - **Class Time:** ST 9:25am – 10:40am  
